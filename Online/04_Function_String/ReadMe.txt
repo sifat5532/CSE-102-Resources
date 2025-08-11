@@ -1,0 +1,1 @@
+Note: I did not follow the instruction regarding the use of the function int No_Vowel_Number(char str[]). However, the main problem was solved correctly. It is highly recommended to abide by all the instructions; otherwise, there may be some penalties.
